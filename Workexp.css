@@ -1,0 +1,25 @@
+*Html,body {
+    Width: 100%;
+  Height: 100%;
+  }
+  html {
+      width: 100%;
+      height: 200%;
+      background-image: url(Oracle_NetSuite_Logo.jpg);
+      background-position: top;
+      background-size: 22%;
+      background-repeat: no-repeat;
+      background-position-x: right;
+      background-color: rgb(215, 221, 223);
+  }
+  .btn {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+  }
+  a 
+  {
+    position: absolute;
+left: 90%;
+top: 295%;
+  }
